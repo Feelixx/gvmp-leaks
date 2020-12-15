@@ -1,23 +1,13 @@
-# Foobar
+# GVMP LEAKS
 
-Foobar is a Python library for dealing with word pluralization.
+Wir findet Ihr alle leaks, die es aktuell zu GVMP gibt.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Ihr wollt die Daten haben? So geht es:
 
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+ Klick einfach auf Code --> Download
 ```
 
 ## Contributing
@@ -26,4 +16,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Klicke hier](https://i.pinimg.com/originals/ec/7f/0a/ec7f0adbbee0d5e8a48d05edc73d3898.gif)
